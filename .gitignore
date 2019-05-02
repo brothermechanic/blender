@@ -1,0 +1,9 @@
+tmp
+*/config/*
+*/datafiles/*
+*/scripts/*
+!*/config/startup.blend
+!*/config/userpref.blend
+!*/scripts/presets/
+!*/scripts/modules/
+*/scripts/modules/extensions_framework/__pycache__

@@ -1,0 +1,10 @@
+/media/disk/projects/Dumbbell/dumbbell-30/dumbbell-30.blend
+/media/disk/projects/Dumbbell/dumbbell-20/dumbbell-20.blend
+/media/disk/projects/Dumbbell/dumbbell-15/dumbbell-15.blend
+/media/disk/projects/Dumbbell/barbell/barbell.blend
+/media/disk/projects/Dumbbell/barbell/barbell_ilia.blend
+/media/disk/projects/Dumbbell/гантели + штанга/barbell_ilia.blend
+/media/disk/projects/Dumbbell/гантели + штанга/barbell.blend
+/media/disk/projects/cad/repki/repki.blend
+/media/disk/projects/SIA-OCR/mug-001/mug-001_v02.blend
+/media/disk/projects/SIA-OCR/mug-002/mug-002_v02.blend

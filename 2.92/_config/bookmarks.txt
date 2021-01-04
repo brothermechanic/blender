@@ -1,0 +1,14 @@
+[Bookmarks]
+/media/disk/projects/
+/media/disk/cgoverlay/
+[Recent]
+/home/bm/Downloads/
+/media/disk/projects/Dumbbell/dumbbell-30/export/
+/media/disk/projects/Dumbbell/dumbbell-15/export/
+/media/disk/projects/Dumbbell/barbell/
+/media/disk/projects/Dumbbell/dumbbell-20/export/
+/media/disk/projects/Dumbbell/гантели + штанга/textures/
+/media/disk/projects/Dumbbell/гантели + штанга/ref/
+/media/disk/projects/cad/repki/export/
+/media/disk/projects/SIA-OCR/mug-001/
+/media/disk/projects/SIA-OCR/mug-002/
